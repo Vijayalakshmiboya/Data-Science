@@ -126,4 +126,3 @@ Implement Regularization (Ridge, Lasso)
 
 Use cross-validation
 
-👉 Do you want me to also give you a ready-made Colab noteboo
